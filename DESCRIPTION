@@ -1,7 +1,8 @@
-Package: NewDataAirqualityPackage
+Package: NewAirqualityPackage
 Title: Replace the Missing Values with Median
 Version: 0.0.0.9000
-Authors@R: imannajwaa47@example.com
+Authors@R: person("Iman", "Najwa", email = "imannajwaa47@example.com", role = c("aut", "cre"))
+Maintainer: Iman Najwa <imannajwaa47@example.com>
 Description: Replace the Missing Values with Median by Using Airquality Dataset
 License: use_mit_license(), use_gpl3_license() or friends to pick a
     license
